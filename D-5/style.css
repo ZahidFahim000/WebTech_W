@@ -1,0 +1,50 @@
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #8f8989;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+            background-color: aqua;
+        }
+
+        label {
+            font-size: 18px;
+            margin-right: 10px;
+            background-color: rgb(200, 212, 223);
+        }
+
+        input {
+            padding: 6px;
+            margin-right: 20px;
+            background-color: #f5e0e0;
+        }
+
+        button {
+            padding: 7px 15px;
+            cursor: pointer;
+            background-color: aquamarine;
+        }
+
+        h2 {
+            margin-top: 30px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        th, td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+
+        th {
+            background: #fff;
+            font-size: 18px;
+        }
